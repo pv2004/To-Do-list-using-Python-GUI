@@ -14,3 +14,10 @@ Python 🐍
 Tkinter 🎨 
 ttkbootstrap 🌟
 
+#__How to run__
+
+- Clone the repo or download as zip file and unzip it
+- Open your terminal application and `cd` into the unzipped/clone repo folder
+- Run `app.py`
+
+
