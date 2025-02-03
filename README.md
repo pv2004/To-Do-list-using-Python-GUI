@@ -1,19 +1,16 @@
-#__To-do List Python GUI app__
+📝 To-Do List App (Python GUI)
+A simple and user-friendly To-Do List application built using Python and Tkinter with ttkbootstrap for modern styling. This app helps you organize tasks efficiently with separate lists for Pending Items and Completed Items.
 
-A to-do list application written in Python language, incorporating the use of regular `tkinter` as well as third-party library `ttkbootstrap`
+✨ Features
+✅ Add Tasks – Quickly add new tasks to your list
+✅ Mark as Done – Move tasks to the Completed Items list
+✅ Undo Completion – Bring back completed tasks to the Pending Items list
+✅ Delete Tasks – Remove unwanted tasks from the list
+✅ Scrollable Interface – Easily navigate through long task lists
+✅ Simple & Clean UI – Built with ttkbootstrap for a modern look and feel
 
-#__How to run__
+🛠️ Technologies Used
+Python 🐍
+Tkinter 🎨
+ttkbootstrap 🌟
 
-- Clone the repo or download as zip file and unzip it
-- Open your terminal application and `cd` into the unzipped/clone repo folder
-- Run `app.py`
-
-#__UI Preview__
-
-__Main view (Pending Items List)__
-
--[pending view](pending items.png "Pending Items View")
-
-__Secondary view (Completed Items List)__
-
--[completed view](completed items.png "Completed Items View")
