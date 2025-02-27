@@ -214,3 +214,7 @@ completed_pane = ScrolledFrame(view_frame, autohide=True, height=600)
 update_completed_view(completed_pane, entries)
 
 root.mainloop()
+
+
+
+
